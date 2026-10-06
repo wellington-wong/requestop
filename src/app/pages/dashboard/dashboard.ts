@@ -46,7 +46,7 @@ import { CommonModule } from '@angular/common';
           </div>
           <div class="py-3 flex justify-between items-center text-slate-600">
             <span>API key generated for production environment</span>
-            <span class="text-xs text-slate-400">14 mins ago</span>
+            <span class="text-xs text-slate-400">88 mins ago</span>
           </div>
           <div class="py-3 flex justify-between items-center text-slate-600">
             <span
